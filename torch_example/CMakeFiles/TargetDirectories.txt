@@ -1,0 +1,3 @@
+/home/daniel_vadranapu/Desktop/Daniel/cpp/torch_example/CMakeFiles/rebuild_cache.dir
+/home/daniel_vadranapu/Desktop/Daniel/cpp/torch_example/CMakeFiles/edit_cache.dir
+/home/daniel_vadranapu/Desktop/Daniel/cpp/torch_example/CMakeFiles/torch_example.dir
